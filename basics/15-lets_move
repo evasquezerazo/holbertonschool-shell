@@ -1,2 +1,2 @@
 #!/bin/bash
-mov . -regex "[A-Z].*" /tmp/u
+mov -v [A-Z]* ./tmp/u
