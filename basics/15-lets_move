@@ -1,2 +1,2 @@
 #!/bin/bash
-mov -v . [A-Z]* ./tmp/u
+mov -l . [A-Z]* ./tmp/u
